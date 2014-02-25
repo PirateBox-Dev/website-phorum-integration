@@ -115,10 +115,11 @@ Some Icons courtesy of:
             </button>
             <a href="{piratebox_page}/start"  accesskey="h" title="[H]" class="navbar-brand"><span class="glyphicon glyphicon-flash"> </span><FONT COLOR=FFFFFF><b>PIRATE</FONT><FONT COLOR=D9534F>BOX</b></FONT></a>        </div>
         <div class="navbar-collapse collapse" id="topnav">
-
 		{INCLUDE "piratebox_menu"}
 	</div>
+
 </div>
+<br />
 {/IF}
 
   {! Please, always keep this <div> in your template and do not change its id }
@@ -200,7 +201,7 @@ Some Icons courtesy of:
         <input type="hidden" name="match_dates" value="365" />
         <input type="hidden" name="match_threads" value="0" />
         <input type="hidden" name="match_type" value="ALL" />
-        <input type="text" name="search" size="20" value="" class="styled-text" /><input type="submit" value="{LANG->Search}" class="styled-button" /><br />
+        <input type="text" name="search" size="20" value="" class="styled-text" placeholder="Search forums only..." /><input type="submit" value="{LANG->Search}" class="styled-button" /><br />
         <a href="{URL->SEARCH}">{LANG->Advanced}</a>
       </form>
     </div> <!-- end of div id=search-area -->

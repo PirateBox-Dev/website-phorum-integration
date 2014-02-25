@@ -46,3 +46,26 @@
         </ul>
       </li>
     </ul>
+
+       <ul class="nav navbar-nav navbar-right">
+	 <li class="dropdown">
+                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-cog"></span><b class="caret"></b></a>
+	</li>
+	<ul class="dropdown-menu">
+		  <li class="dropdown-header">Not available</li>
+	</ul>
+	</ul>
+
+
+<form class="navbar-form navbar-right" action="http://duckduckgo.com/">
+  <div class="form-group">
+    <input type="hidden" name="sites" value="=daviddarts.com,piratebox.cc,piratebox.aod-rpg.de,piratebox.de">
+    <input type="hidden" name="ka" value="h">
+    <input type="hidden" name="k7" value="#fafafa">
+    <input type="hidden" name="kj" value="#3f3f3f">
+    <input type="hidden" name="ky" value="#fafafa">
+    <input type="hidden" name="kx" value="b">
+    <input type="hidden" name="kt" value="Helvetica">
+    <input type="text" name="q" maxlength="255" placeholder="Search DuckDuckGo..">
+  </div>
+</form>
