@@ -62,7 +62,7 @@
     <input type="hidden" name="sites" value="=daviddarts.com,piratebox.cc,piratebox.aod-rpg.de,piratebox.de">
     <input type="hidden" name="ka" value="h">
     <input type="hidden" name="k7" value="#fafafa">
-    <input type="hidden" name="kj" value="#3f3f3f">
+    <input type="hidden" name="kj" value="#222222">
     <input type="hidden" name="ky" value="#fafafa">
     <input type="hidden" name="kx" value="b">
     <input type="hidden" name="kt" value="Helvetica">
