@@ -2,7 +2,7 @@
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-wrench"></span> HowTos <b class="caret"></b></a>
         <ul class="dropdown-menu">
-          <li><a href="{piratebox_page}/openwrt">OpenWrt</a></li>
+          <li><a href="{piratebox_page}/openwrt:diy">OpenWrt</a></li>
           <li><a href="{piratebox_page}/raspberry_pi">Raspberry Pi(rate)Box</a></li>
           <li><a href="{piratebox_page}/laptop">Laptop</a></li>
           <li><a href="{piratebox_page}/mods">Mods</a></li>
