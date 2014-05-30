@@ -43,7 +43,6 @@
           <li><a href="{piratebox_page}/faq">FAQ</a></li>
           <li><a href="{piratebox_page}/openwrt:changelog">Changelog</a></li>  
           <li><a href="{piratebox_page}/team">Team</a></li>
-          <li><a href="{piratebox_page}/archive">Archive</a></li>
         </ul>
       </li>
     </ul>
