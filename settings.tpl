@@ -76,9 +76,9 @@
 {VAR message_background_color "White"}
 
 {! -- Background Images -- }
-{VAR header_background_image "templates/pbx_integration2/images/header_background.png"}
-{VAR top_background_image "templates/pbx_integration2/images/top_background.png"}
-{VAR message_background_image "templates/pbx_integration2/images/message_background_new.png"}
+{VAR header_background_image "templates/website-phorum-integration/images/header_background.png"}
+{VAR top_background_image "templates/website-phorum-integration/images/top_background.png"}
+{VAR message_background_image "templates/website-phorum-integration/images/message_background_new.png"}
 
 
 {! -- Link to PirateBox Page -- } 
