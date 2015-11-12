@@ -82,4 +82,4 @@
 
 
 {! -- Link to PirateBox Page -- } 
-{VAR piratebox_page "http://piratebox.cc"}
+{VAR piratebox_page "//piratebox.cc"}
