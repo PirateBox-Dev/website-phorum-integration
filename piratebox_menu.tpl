@@ -69,7 +69,7 @@
        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-cog"></span><b class="caret"></b></a>
        <ul class="dropdown-menu">
 	  <li class="dropdown-header">Site Tools</li>
-	  <li><a href="https://piratebox.cc/start?do=index" class="action index" accesskey="x" title="Sitemap [X]">Sitemap</a></li>
+	  <li><a href="{piratebox_page}/start?do=index" class="action index" accesskey="x" title="Sitemap [X]">Sitemap</a></li>
        </ul>
       </li>
     </ul>
