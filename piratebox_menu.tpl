@@ -64,17 +64,15 @@
       </li>
     </ul>
 
-       <ul class="nav navbar-nav navbar-right">
-	 <li class="dropdown">
-                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-cog"></span><b class="caret"></b></a>
-	<ul class="dropdown-menu">
-		<li class="dropdown-header">Site Tools</li>
-		<li>
-		     <a href="https://piratebox.cc/start?do=index" class="action index" accesskey="x" title="Sitemap [X]">Sitemap</a>
-		</li>
-	</ul>
-	</li>
-	</ul>
+<ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+       <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-cog"></span><b class="caret"></b></a>
+       <ul class="dropdown-menu">
+	  <li class="dropdown-header">Site Tools</li>
+	  <li><a href="https://piratebox.cc/start?do=index" class="action index" accesskey="x" title="Sitemap [X]">Sitemap</a></li>
+       </ul>
+      </li>
+    </ul>
 
 
 <form class="navbar-form navbar-right" action="http://duckduckgo.com/">
