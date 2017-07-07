@@ -9,7 +9,6 @@
 	  <li><a href="{piratebox_page}/troubleshooting">Troubleshooting</a></li>
 	  <li class="dropdown-header"><a href="{piratebox_page}/openwrt:troubleshooting">OpenWrt</a></li>
           <li class="dropdown-header"><a href="{piratebox_page}/raspberry_pi:troubleshooting">Raspberry Pi</a></li>
-	  <li class="dropdown-header"><a href="{piratebox_page}/laptop:troubleshooting">Laptop</a></li>
         </ul>
     </li>
 </ul>
@@ -22,7 +21,6 @@
           <li><a href="{piratebox_page}/mods">Overview</a></li>
           <li class="dropdown-header"><a href="{piratebox_page}/openwrt:mods">OpenWrt</a></li>
           <li class="dropdown-header"><a href="{piratebox_page}/raspberry_pi:mods">RaspberryPi</a></li>
-          <li class="dropdown-header"><a href="{piratebox_page}/laptop:mods">Laptop</a></li>
         </ul>      
 
        </li>
