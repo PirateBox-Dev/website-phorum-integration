@@ -53,6 +53,7 @@
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-plus"></span> About <b class="caret"></b></a>
         <ul class="dropdown-menu">
+          <li><a href="{piratebox_page}/goals">Project goals</a></li>
           <li><a href="{piratebox_page}/faq">FAQ</a></li>
           <li><a href="{piratebox_page}/team">Team</a></li>
           <li><a href="{piratebox_page}/press">Press</a></li>
