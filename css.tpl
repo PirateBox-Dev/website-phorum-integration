@@ -12,7 +12,8 @@ body {
     font-size: {base_font_size};
     color: {default_font_color};
     max-width: {max_width};
-    margin: auto;
+    /* margin: auto; */
+    margin:3em auto;
 }
 
 /* HTML level styles */
